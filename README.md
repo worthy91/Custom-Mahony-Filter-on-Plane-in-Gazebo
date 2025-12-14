@@ -131,3 +131,4 @@ param set NAV_DLL_ACT 0
 commander arm
 commander takeoff
 
+just put it in gpt and it will give you formatted version of plugins etc
