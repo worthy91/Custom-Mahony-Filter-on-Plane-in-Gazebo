@@ -1,4 +1,5 @@
 # Adaptive Mahony Attitude Controller (ROS 2 Jazzy + PX4)
+📹 Demo Video: https://photos.app.goo.gl/BW1TgM7mSJZuzVWx8
 
 This package implements an advanced, adaptive Mahony attitude estimator for fixed-wing UAVs, integrated with ROS 2 Jazzy and PX4 Autopilot SITL in Gazebo.
 
